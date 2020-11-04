@@ -12,6 +12,7 @@ public class LamadaTest {
         System.out.println();
         System.out.println("更新");
         System.out.println("二次更新");
+        System.out.println("三次更新");
 
     }
 
