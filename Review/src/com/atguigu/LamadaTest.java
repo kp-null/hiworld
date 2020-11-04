@@ -11,6 +11,7 @@ public class LamadaTest {
         consumer.accept("lamada");
         System.out.println();
         System.out.println("更新");
+        System.out.println("二次更新");
 
     }
 
