@@ -9,6 +9,9 @@ public class LamadaTest {
     public void test1(){
         Consumer<String> consumer = System.out::println;
         consumer.accept("lamada");
+        System.out.println();
+        System.out.println("更新");
 
     }
+
 }
